@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "水死体は恋したい",
+  "base_artist": "LonePi",
+  "createdAt": "2025-12-12T11:39:10.538735Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "水死体は恋したい - A Drowned Body Wants to Be Lovey-Dovey",
+      "artist": "LonePi",
+      "has_synced": false,
+      "path": "select/01_水死体は恋したい_-_A_Drowned_Body_Wants_to_Be_Lovey-Dovey_LonePi.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "水死体は恋したい",
+      "artist": "LonePi",
+      "has_synced": false,
+      "path": "select/02_水死体は恋したい_LonePi.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "水死体は恋したい",
+      "artist": "LonePi",
+      "has_synced": false,
+      "path": "select/pl_01_水死体は恋したい_LonePi.txt"
+    }
+  ]
+}
